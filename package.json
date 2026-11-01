@@ -1,0 +1,8 @@
+{
+  "name": "maison-aurea-loja-premium",
+  "version": "1.0.0",
+  "description": "Loja virtual premium de joias com carrinho e pedido pelo WhatsApp",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
